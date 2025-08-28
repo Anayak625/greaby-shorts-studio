@@ -62,7 +62,7 @@ const TermsPage = () => {
     },
     {
       title: "Contact Us",
-      content: "If you have any questions about these Terms, please contact us at anurag@greaby.cloud."
+      content: "If you have any questions about these Terms, please contact us at 173613662+Anayak625@users.noreply.github.com."
     }
   ];
 
